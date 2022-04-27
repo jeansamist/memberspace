@@ -1,0 +1,17 @@
+{
+    "name": "baha/memberspace",
+    "description": "A simple member space",
+    "type": "project",
+    "authors": [
+        {
+            "name": "BAHA Ephraïm Jean-Samuel",
+            "email": "jeansamist@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "config/classes/"
+        }
+    },
+    "require": {}
+}
